@@ -1,3 +1,5 @@
+This fork is aimed at getting a fully portable Java version running as i attempt to learn Java. May then attempt to create a windows app as i am concurrently learning c# & c++
+
 # Faceless
 
 Faceless is where you can talk freely. Share messages with your friends and the whole world.
